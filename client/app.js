@@ -1,4 +1,4 @@
-const baseUrl = "https://monorepo-bw63.onrender.com/";
+const baseUrl = "https://monorepo-bw63.onrender.com";
 
 async function handleServerConnect() {
   const response = await fetch(`${baseUrl}/`);
